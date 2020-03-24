@@ -1,1 +1,2 @@
-# Coursera Projects from IBM Data Science Professional Certificate by Harry Ngo
+# Coursera Projects from IBM Data Science Professional Certificate
+## by Harry Ngo
